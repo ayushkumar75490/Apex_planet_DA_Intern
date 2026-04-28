@@ -1,0 +1,17 @@
+objectives:
+To rapidly acquaint the intern with the provided dataset and master the critical first step of any analysis: acquiring, cleaning, and preparing data
+for analysis.
+
+Grant the intern access to a key dataset (e.g., sales transactions, website analytics, customer data). The intern will create a data dictionary,
+documenting each variable's meaning, type, and potential business relevance.
+
+The intern will perform an initial profiling of the data to identify critical issues: missing values, duplicates,
+inconsistent formatting, and outliers.
+
+Write scripts (e.g., in Python/Pandas or SQL) to handle identified data quality issues.
+Perform necessary transformations: standardizing date formats, categorizing free-text fields, and feature
+engineering (e.g., creating new columns like 'Customer Age' from a 'Date of Birth' column).
+Output a final, analysis-ready dataset.
+
+GitHub: Data dictionary, cleaning script, cleaned dataset
+LinkedIn Video: 3-5 min walkthrough of data issues and cleaning process
